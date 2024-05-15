@@ -1,5 +1,5 @@
 Ahmet Berkay SARIASLAN
-54490639066
+
 
 In this assignment, the RSA Algorithm needs to be coded. Unfortunately, I couldn't interface. But thanks to this assignment, I learned how the RSA Algorithm works in the basic sense. It became a real example of encryption, especially in terms of being able to work with large numbers.
 
